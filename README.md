@@ -5,7 +5,7 @@ My pronouns are *He/Him/His* and I am a Back End Web developer!
 
 I attend school at [Make School](https://www.makeschool.com/) and I am pursuing a Bachelors Degree in Applied Computer Science.
 
-I am currently working on Kronos Budgeter! A budgeting tool for web! I'm currently learning Algorithms and more Back End methodologies like MongoDB, Flask, and specifically Flask Login.
+I am currently learning Ethereum and Solidity! I am very excited to add to and expand the blockchain
 My interests include *Game Development*, *UI/UX Design*, *FinTech*, *Data Science* and creating scalable web applications
 
 
