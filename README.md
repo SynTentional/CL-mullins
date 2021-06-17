@@ -12,6 +12,10 @@ I am currently learning Ethereum and Solidity! I am very excited to add to and e
 My interests include *Game Development*, *UI/UX Design*, *FinTech*, *Data Science* and creating scalable web applications
 
 
+## Tech Stack
+
+[Stack Share](https://stackshare.io/cl-mullins/my-stack)
+
 <!--
 **CL-mullins/CL-mullins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
